@@ -14,7 +14,7 @@ What I'm up to:
 
 
 
-\- ![](https://res.cloudinary.com/dujun1hoe/image/upload/c_scale,w_20/v1617457089/1280px-Amazon_Web_Services_Logo.svg_pztqo0.png) Studying for my AWS Cloud Practicioner exam
+\- ![](https://res.cloudinary.com/dujun1hoe/image/upload/c_scale,w_20/v1617457089/1280px-Amazon_Web_Services_Logo.svg_pztqo0.png) Studying for my AWS Solutions Architect exam
 
 
 
